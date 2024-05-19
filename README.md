@@ -1,5 +1,7 @@
 # test-assignment-Yadro
 Тестовое задание
-![image](https://github.com/artrbtlln/test-assignment-Yadro/assets/147256800/31bd710d-26a6-4248-97d3-535bfb2434eb)
-![image](https://github.com/artrbtlln/test-assignment-Yadro/assets/147256800/8d89f0f6-0ef5-47c2-ab60-efa2abb22965)
-![image](https://github.com/artrbtlln/test-assignment-Yadro/assets/147256800/7348efb1-3e94-43c1-bca2-4761098398ff)
+![image](https://github.com/artrbtlln/test-assignment-Yadro/assets/147256800/6314b43c-786f-42ab-aa8b-4833b182fc5c)
+![image](https://github.com/artrbtlln/test-assignment-Yadro/assets/147256800/2a09413f-6645-4987-9fb1-e7c33a5307e0)
+Временная сложность - O(n^2), в решении предложены несколько видов сортировок, потому что так или иначе ни одна из них не влияет на общую временную сложность.
+
+
